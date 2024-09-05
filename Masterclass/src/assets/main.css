@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(84, 145, 84);
+  color: rgb(224,217,217);
+  box-sizing: border-box;
+}
+#app {
+  
+  font-weight: normal;
+}
+
+p{
+  font-size: 1.4rem;
+}
+
+header{
+  font-size: 2rem;
+  color: white;
+  margin-bottom: 20px;
+  background-color: green;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
